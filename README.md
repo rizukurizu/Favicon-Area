@@ -1,2 +1,2 @@
 # SVG-Only-
-Tempat Naruh Image SVG
+Repo Isinya Favicon Doangan
